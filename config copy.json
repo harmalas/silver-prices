@@ -1,0 +1,7 @@
+{
+    "SERVICE_URL":  "https://www.goldapi.io/api/{}/USD",
+    "API_KEY": "API KEY HERE", 
+    "EMAIL_USERNAME": "EMAIL USERNAME HERE",
+    "EMAIL_PASSWORD": "EMAIL PASSWORD HERE",
+    "RECEIVNG_EMAIL": "RECEIVING EMAIL HERE"
+}
